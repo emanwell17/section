@@ -6,7 +6,7 @@ export default function Cta() {
   return (
     <main className='min-h-screen py-1 bg-gray-900 text-white'>
         <div className='text-center mt-30 '>
-        <h1 className='text-5xl font-bold'>class Project</h1>
+        <h1 className='text-5xl font-bold'>My Project</h1>
         </div>
         <ul className='text-center mt-10 mx-auto w-100 text-black text-2xl'>
           <Link to="/login1">
