@@ -60,7 +60,7 @@ export default function Login1() {
         <div>
           <p className="text-center text-sm mt-10">
             Not a member?{" "}
-            <Link to="Login2" className="text-blue-500 hover:text-blue-400">
+            <Link to="/login2" className="text-blue-500 hover:text-blue-400">
               start a 14days free trial
             </Link>
           </p>
