@@ -11,6 +11,7 @@ import Project from "./Project";
 import { Route, Routes } from "react-router";
 import { Home } from "lucide-react";
 import Cta_section from "./Cta_section";
+import Cta_section2 from "./Cta_section2";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Route path="/landing2" element={<Landing2/>}/>
       <Route path="/cta-section" element={<Cta_section/>}/>
       <Route path="/" element={<Project/>}/>
+      <Route path="/cta-section2" element={<Cta_section2/>}/>
       
 
     </Routes>

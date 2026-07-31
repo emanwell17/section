@@ -33,7 +33,7 @@ export default function Cta_section() {
             Malesuada adipiscing sagittis vel nulla.
           </p>
 
-          <Link to="/">
+          <Link to="/cta-section2">
           <div className="mt-10 flex items-center gap-x-6">
             <a
               href="#"
